@@ -1,11 +1,5 @@
-import "./styles/index.css";
-
-export const greet = () => {
-    return "Hello World from Code with Ahsan!";
-  }
-  
-  const main = () => {
-    console.log(greet());
+const main = () => {
+    console.log("Code with Ahsan, Hello World!");
   };
   
   main();
